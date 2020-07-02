@@ -1,4 +1,4 @@
-# RYD
+
 PDF TO TEXT(Questions and Answers)
 
 Installation:
